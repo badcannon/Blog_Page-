@@ -1,0 +1,46 @@
+*{
+    font-family: Source Sans Pro;
+}
+
+body{
+    border:20px solid gray;
+    max-width: 700px;
+    width:80%;
+    margin:auto;
+    padding:20px;
+    background: whitesmoke;
+}
+
+.date{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size:14px;
+    color:blue;
+    margin-top:20px;
+    margin-left:10px;
+
+}
+h1{
+    margin-left:10px;
+    text-transform: uppercase;
+}
+
+
+.first{
+    border-left:5px solid gray;
+    
+}
+p{
+    font-weight: 800;
+    font-size:15px;
+}
+
+hr{
+ margin:30px 10px;
+  
+}
+
+div{
+
+}
+
